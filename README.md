@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Preview](https://interactive-rating-component-main-five-liart.vercel.app)
 
 ## My process
 
@@ -47,7 +47,7 @@ Users should be able to:
 
 ### What I learned
 
-I learned how to hidden the back of content when rotating using backface-visibility property and how to use add or remove class in JS
+I learned how to hidden the back of content when rotating using `backface-visibility` property and how to use `add` or `remove` class in JS
 
 code snippets:
 
