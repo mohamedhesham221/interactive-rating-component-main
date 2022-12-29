@@ -1,0 +1,12 @@
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+
+    .container {
+        transform: scale(1.2);
+    }
+
+    button[type="submit"],
+    .btngrp button {
+        cursor: pointer;
+    }
+}
