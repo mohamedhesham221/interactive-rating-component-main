@@ -24,7 +24,6 @@ body {
     place-content: center;
     justify-items: center;
     background-color: var(--veryDarkBlue);
-    perspective: 100%;
 }
 
 .container {
