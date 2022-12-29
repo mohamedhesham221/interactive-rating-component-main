@@ -46,7 +46,8 @@ Users should be able to:
 - JavaScript
 
 ### What I learned
-    < I learned how to hidden the back of content when rotating using **backface-visibility** property and how to use **add** or **remove** class in JS >
+
+    I learned how to hidden the back of content when rotating using **backface-visibility** property and how to use **add** or **remove** class in JS
 
 code snippets:
 
